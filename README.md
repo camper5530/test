@@ -1,2 +1,2 @@
 # test
-yii2 framwork test project
+yii2 basic framwork test project
