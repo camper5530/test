@@ -1,2 +1,2 @@
 # test
-test project done using yii2 basic framework 
+test-project has done by using yii2-basic framework 
